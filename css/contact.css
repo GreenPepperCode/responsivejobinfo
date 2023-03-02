@@ -1,0 +1,19 @@
+a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    margin: 0.5rem 0;
+  }
+  
+a:hover {
+    color: #00FF7F;
+  }
+
+.infos {
+    min-width: 50%;
+}
+
+main {
+    justify-content: center;
+}
