@@ -7,4 +7,4 @@ Mais ce n'est pas tout, car ce site contient également une page de contact. Oui
 
 Alors, n'hésitez plus, venez explorer ce site extraordinaire et découvrir tout ce que je peux vous apporter !
 
-[Bon visionnage à vous.](html/index.html) 
+[Bon visionnage à vous.](index.html) 
