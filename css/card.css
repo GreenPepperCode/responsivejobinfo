@@ -1,7 +1,16 @@
+.moreproject {
+  margin-bottom: 5rem;
+}
+
 .project-card {
     border: 1px solid #ccc;
+    background-color: white;
     padding: 1rem;
-    margin-bottom: 1rem;
+    width: 70%;
+    margin: auto;
+    margin-top: 2rem;;
+    border: 2px solid #00FF7F;
+    border-radius: 10%;
   }
   
   .project-card img {
@@ -10,3 +19,8 @@
     margin-bottom: 0.5rem;
   }
   
+  @media screen and (max-width: 350px) {
+    .project-card .project-demo1 {
+        content: url('../public/img/discord-alternativ.png');
+    }
+}
